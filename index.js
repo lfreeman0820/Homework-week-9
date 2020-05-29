@@ -84,13 +84,6 @@ You can find me at [lfreeman0820]
 `
     fs.writeFile(`${response.github}.md`, md, (err)=> console.log(err || 'success!'))
 }
-init();
 
-function writeToFile(fileName, data) {
-}
-
-function init() {
-
-}
 
 init();
